@@ -1,0 +1,33 @@
+# Van Gogh — saturated take on his actual pigments: ultramarine and cobalt
+# skies, chrome yellow stars, emerald and viridian cypresses, vermilion roofs.
+mode = "dark"
+
+accent = "#ffcc1a"              # chrome yellow star
+selection = "#2b4fa8"           # cobalt swirl
+muted = "#5a6fa8"
+
+background = "#0b1d4d"          # ultramarine night sky
+dark_background = "#08163b"
+darker_background = "#050f2a"
+lighter_background = "#1a3378"
+
+foreground = "#f3ead0"          # canvas cream
+dark_foreground = "#8ea0cf"
+light_foreground = "#e0d6b4"
+bright_foreground = "#fff8e1"
+
+red = "#ff5a36"                 # vermilion
+yellow = "#ffcc1a"              # chrome yellow
+orange = "#ff9a1f"              # sunflower orange
+green = "#3fbf6f"               # emerald cypress
+cyan = "#2fd3d0"                # viridian / almond-blossom sky
+blue = "#4a8cff"                # cobalt swirl
+magenta = "#c77dff"             # iris violet
+brown = "#c0762a"               # ochre
+
+bright_red = "#ff8a6b"
+bright_yellow = "#ffe066"
+bright_green = "#6fe39a"
+bright_cyan = "#6ff0ec"
+bright_blue = "#80b0ff"
+bright_magenta = "#dda8ff"
